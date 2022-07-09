@@ -1,0 +1,30 @@
+.----------------------------------------------------------------------------.
+|                        5.2 List of subjects                                |
+|----------------------------------------------------------------------------|
+|     Code     | Subject                                                     |
+|----------------------------------------------------------------------------|
+	301	 ENGLISH CORE
+	302	 HINDI CORE
+	28	 POLITICAL SCIENCE
+	27	 HISTORY
+	29	 GEOGRAPHY
+	30	 ECONOMICS
+	37	 PSYCHOLOGY
+	39	 SOCIOLOGY
+	41	 MATHEMATICS
+	42	 PHYSICS
+	43	 CHEMISTRY
+	44	 BIOLOGY
+	45	 BIOTECHNOLOGY
+	46	 ENGINEERING DRAWING
+	48	 PHYSICAL EDUCATION
+	54	 BUSINESS STUDIES
+	55	 ACCOUNTANCY
+	66	 ENTREPRENEURSHIP
+	299	 WORK EXPERIENCE
+	65	 INFORMATICS PRACT
+	298	 PHYSICS LAB
+	297	 CHEMISTRY LAB
+	296	 BIOLOGY LAB
+	83	 Computer Science
+.----------------------------------------------------------------------------.

@@ -1,0 +1,143 @@
+.----------------------------------------------------------------------------.
+|             5.4 Class-Subject-Teacher Mapping Details                      |
+|----------------------------------------------------------------------------|
+
+		Class: 100-12 - A - Science(PCM)
+|----------------------------------------------------------------------------|
+| Code |      Subject      | Lectures | Teacher ID | Teacher                 |
+|----------------------------------------------------------------------------|
+   48    PHYSICAL EDUCATION      1	1007	Yogesh
+   301   ENGLISH CORE            3	1001	Salma H.
+   42    PHYSICS                 4	1003	Devi Jackson
+   298   PHYSICS LAB             1	1011	Neha
+   43    CHEMISTRY               4	1004	Meeta Pathak
+   297   CHEMISTRY LAB           1	1011	Neha
+   41    MATHEMATICS             6	1002	Suruchi Papneja
+   46    ENGINEERING DRAWING     3	1006	Sachin Pandey
+.----------------------------------------------------------------------------.
+
+		Class: 101-12 - B - Science(PCB)
+|----------------------------------------------------------------------------|
+| Code |      Subject      | Lectures | Teacher ID | Teacher                 |
+|----------------------------------------------------------------------------|
+   48    PHYSICAL EDUCATION      1	1007	Yogesh
+   301   ENGLISH CORE            3	1001	Salma H.
+   42    PHYSICS                 4	1003	Devi Jackson
+   298   PHYSICS LAB             1	1011	Neha
+   43    CHEMISTRY               4	1004	Meeta Pathak
+   297   CHEMISTRY LAB           1	1011	Neha
+   41    MATHEMATICS             6	1005	Shruti
+   44    BIOLOGY                 4	1013	Nitu Sinha
+   296   BIOLOGY LAB             1	1011	Neha
+.----------------------------------------------------------------------------.
+
+		Class: 102-12 - C - Science-PCM-Comp Sc
+|----------------------------------------------------------------------------|
+| Code |      Subject      | Lectures | Teacher ID | Teacher                 |
+|----------------------------------------------------------------------------|
+   48    PHYSICAL EDUCATION      1	1007	Yogesh
+   301   ENGLISH CORE            3	1010	Pooja Kaura
+   42    PHYSICS                 4	1003	Devi Jackson
+   298   PHYSICS LAB             1	1011	Neha
+   43    CHEMISTRY               4	1004	Meeta Pathak
+   297   CHEMISTRY LAB           1	1011	Neha
+   41    MATHEMATICS             6	1002	Suruchi Papneja
+   83    Computer Science        3	1009	Pooja Aggarwal
+.----------------------------------------------------------------------------.
+
+		Class: 103-12 - D - Humanities & Arts
+|----------------------------------------------------------------------------|
+| Code |      Subject      | Lectures | Teacher ID | Teacher                 |
+|----------------------------------------------------------------------------|
+   48    PHYSICAL EDUCATION      1	1007	Yogesh
+   302   HINDI CORE              3	1015	Munish Pandey
+   27    HISTORY                 3	1017	C. Mahajan
+   29    GEOGRAPHY               3	1018	L. Chitre
+   37    PSYCHOLOGY              4	1019	Shalini Panda
+   30    ECONOMICS               4	1012	Shoumita
+   301   ENGLISH CORE            3	1001	Salma H.
+   28    POLITICAL SCIENCE       3	1016	S. Pradhan
+.----------------------------------------------------------------------------.
+
+		Class: 104-12 - E - Commerce
+|----------------------------------------------------------------------------|
+| Code |      Subject      | Lectures | Teacher ID | Teacher                 |
+|----------------------------------------------------------------------------|
+   48    PHYSICAL EDUCATION      1	1007	Yogesh
+   301   ENGLISH CORE            3	1001	Salma H.
+   302   HINDI CORE              3	1015	Munish Pandey
+   55    ACCOUNTANCY             4	1014	Aparna C
+   54    BUSINESS STUDIES        4	1008	Swedel
+   30    ECONOMICS               4	1012	Shoumita
+   41    MATHEMATICS             5	1002	Suruchi Papneja
+.----------------------------------------------------------------------------.
+
+		Class: 105-11 - A - Science(PCM)
+|----------------------------------------------------------------------------|
+| Code |      Subject      | Lectures | Teacher ID | Teacher                 |
+|----------------------------------------------------------------------------|
+   48    PHYSICAL EDUCATION      1	1007	Yogesh
+   301   ENGLISH CORE            3	1010	Pooja Kaura
+   42    PHYSICS                 4	1003	Devi Jackson
+   298   PHYSICS LAB             1	1011	Neha
+   43    CHEMISTRY               4	1004	Meeta Pathak
+   297   CHEMISTRY LAB           1	1011	Neha
+   41    MATHEMATICS             6	1005	Shruti
+   46    ENGINEERING DRAWING     3	1006	Sachin Pandey
+.----------------------------------------------------------------------------.
+
+		Class: 106-11 - B - Science(PCB)
+|----------------------------------------------------------------------------|
+| Code |      Subject      | Lectures | Teacher ID | Teacher                 |
+|----------------------------------------------------------------------------|
+   48    PHYSICAL EDUCATION      1	1007	Yogesh
+   301   ENGLISH CORE            3	1010	Pooja Kaura
+   42    PHYSICS                 4	1003	Devi Jackson
+   298   PHYSICS LAB             1	1011	Neha
+   43    CHEMISTRY               4	1021	Sonu Dubey
+   297   CHEMISTRY LAB           1	1011	Neha
+   41    MATHEMATICS             6	1005	Shruti
+   44    BIOLOGY                 4	1013	Nitu Sinha
+   296   BIOLOGY LAB             1	1011	Neha
+.----------------------------------------------------------------------------.
+
+		Class: 107-11 - C - Science-PCM-Comp Sc
+|----------------------------------------------------------------------------|
+| Code |      Subject      | Lectures | Teacher ID | Teacher                 |
+|----------------------------------------------------------------------------|
+   48    PHYSICAL EDUCATION      1	1007	Yogesh
+   301   ENGLISH CORE            3	1010	Pooja Kaura
+   42    PHYSICS                 4	1003	Devi Jackson
+   298   PHYSICS LAB             1	1011	Neha
+   43    CHEMISTRY               4	1021	Sonu Dubey
+   297   CHEMISTRY LAB           1	1011	Neha
+   41    MATHEMATICS             6	1022	Ajit Pandit
+   83    Computer Science        3	1009	Pooja Aggarwal
+.----------------------------------------------------------------------------.
+
+		Class: 108-11 - D - Humanities & Arts
+|----------------------------------------------------------------------------|
+| Code |      Subject      | Lectures | Teacher ID | Teacher                 |
+|----------------------------------------------------------------------------|
+   48    PHYSICAL EDUCATION      1	1007	Yogesh
+   302   HINDI CORE              3	1015	Munish Pandey
+   27    HISTORY                 3	1017	C. Mahajan
+   29    GEOGRAPHY               3	1018	L. Chitre
+   37    PSYCHOLOGY              4	1019	Shalini Panda
+   30    ECONOMICS               4	1012	Shoumita
+   301   ENGLISH CORE            3	1001	Salma H.
+   28    POLITICAL SCIENCE       3	1016	S. Pradhan
+.----------------------------------------------------------------------------.
+
+		Class: 109-11 - E - Commerce
+|----------------------------------------------------------------------------|
+| Code |      Subject      | Lectures | Teacher ID | Teacher                 |
+|----------------------------------------------------------------------------|
+   48    PHYSICAL EDUCATION      1	1007	Yogesh
+   301   ENGLISH CORE            3	1001	Salma H.
+   302   HINDI CORE              3	1015	Munish Pandey
+   55    ACCOUNTANCY             4	1014	Aparna C
+   54    BUSINESS STUDIES        4	1008	Swedel
+   30    ECONOMICS               4	1012	Shoumita
+   41    MATHEMATICS             5	1022	Ajit Pandit
+.----------------------------------------------------------------------------.

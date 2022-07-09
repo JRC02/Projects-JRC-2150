@@ -1,0 +1,26 @@
+.----------------------------------------------------------------------------.
+|                        5.3 List of teachers                                |
+|----------------------------------------------------------------------------|
+|     ID      | Name                                                         |
+|----------------------------------------------------------------------------|
+	1001	Salma H.
+	1002	Suruchi Papneja
+	1003	Devi Jackson
+	1004	Meeta Pathak
+	1006	Sachin Pandey
+	1007	Yogesh
+	1008	Swedel
+	1009	Pooja Aggarwal
+	1011	Neha
+	1012	Shoumita
+	1013	Nitu Sinha
+	1014	Aparna C
+	1015	Munish Pandey
+	1016	S. Pradhan
+	1017	C. Mahajan
+	1018	L. Chitre
+	1019	Shalini Panda
+	1020	Mrinal Jain
+	1010	Pooja Kaura
+	1005	Shruti
+.----------------------------------------------------------------------------.
